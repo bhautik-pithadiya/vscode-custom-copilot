@@ -1,0 +1,18 @@
+# virtual envs
+.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# environment variables
+.env
+
+# node modules
+node_modules
+
+# vscode settings
+.vscode
+.vscode-test
+vscode-copilot-agent\.vscode
