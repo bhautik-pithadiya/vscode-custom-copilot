@@ -20,5 +20,5 @@ vscode-copilot-agent\.vscode
 
 vscode-copilot-agent\out
 vscode-copilot-agent\dist
-vscode-copilot-agent\.vscode-test/
+vscode-copilot-agent\.vscode-test
 *.vsix
